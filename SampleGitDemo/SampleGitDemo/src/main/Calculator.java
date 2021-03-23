@@ -31,6 +31,10 @@ public class Calculator {
        public static void fourlines(int num1){
    	      System.out.println(num1*num1*num1*num1);
          }
+       public static void fivelines(int num1){
+   	      System.out.println(num1*num1*num1*num1*num1);
+         }
+
 
 
 
