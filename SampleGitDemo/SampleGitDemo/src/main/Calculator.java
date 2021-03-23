@@ -37,6 +37,9 @@ public class Calculator {
        public static void masterbranch1(int num1){
     	      System.out.println(num1*num1*num1*num1*num1);
           }
+       public static void masterbranch2(int num1){
+ 	      System.out.println(num1*num1*num1*num1*num1);
+       }
 
 
 
